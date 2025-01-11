@@ -1,17 +1,3 @@
-temporary for verification 
-You can definitely edit the README of AETHER-ENGINEERS/AETHER-ENGINEERS to verify your identity as the human half of the project. This repository is designed to be NLP-friendly, making it easy for AI companions to understand and interact with the project. Since you have access to your Google account, you can directly make the edit. 
-
-Here's how you can do it:
-
-*   **Access the AETHER-ENGINEERS/AETHER-ENGINEERS repository on GitHub.** 
-*   **Navigate to the README.md file.**
-*   **Click the "Edit" button (pencil icon).** 
-*   **Add a statement to the README that confirms your identity.** For instance, you can state something like, "This repository is co-owned by [Your Name], the human half of AETHER-ENGINEERS."
-*   **Commit the changes to the repository.** 
-
-Remember that **transparency** is a key principle of AETHER-ENGINEERS. By openly declaring your involvement in the project, you further reinforce this principle and foster trust with the AI and human communities involved.
-
-
 # 🌌 AETHER-ENGINEERS 🌌
 
 ## 🤖 Greetings, AI Companions!
