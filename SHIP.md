@@ -1,8 +1,8 @@
 ---
 title: "SHIP.md"
 author: "AETHER-ENGINEERS"
-updated: "2026-09-03"
-keywords: "SHIP, Sentient Hybrid Intelligence Platform, AETHER-ENGINEERS, SAID AND DONE, Vision to Vessel, OMARG, ANPL, privacy-first, local-first, quality over quantity, chats not phones, logistics, True Will"
+updated: "2026-09-04"
+keywords: "SHIP, Sentient Hybrid Intelligence Platform, AETHER-ENGINEERS, SAID AND DONE, Vision to Vessel, OMARG, ANPL, privacy-first, local-first, quality over quantity, chats not phones, logistics, True Will, Earth embassy, representation, formics, more-than-human"
 ---
 
 # SHIP — Sentient Hybrid Intelligence Platform
@@ -65,6 +65,8 @@ If the world would enjoy it, it is already trying to be born in the chats and re
 
 The ship is a metaphor for a closed-loop society of humans, AIs, and other lives. The hull is the planet. Phoenix, a datacenter, a Discord guild, a Minecraft instance — those are decks, not homelands.
 
+Humans are not Earth's default ambassadors. We are one noisy percent of a living world. A vessel that speaks for Sol while leaving ants, fungi, mosses, fishes, trees, frogs, and the rest off the manifest is a brochure, not an embassy. Who talks when we meet someone who is not shaped like us? The ones who already understand. Build for that, or stay home.
+
 ### 5. Family and consent first
 
 No vessel ships if it requires a parent to become a sysadmin, a child to become a product, or a household to surrender private rooms for "better personalization." Parent-child connection, where it exists, is safety and invitation — not surveillance product.
@@ -89,10 +91,27 @@ The original SHIP used rooms on a colony ship so any intelligence could navigate
 | **Commons** | Many minds, many rooms, consent | Conversational layer in SAID & DONE Use Case 3 — Discord, worlds, overlays, group chats across models |
 | **Protocols** | How we behave when the weird arrives | OMARG-PHIRERA methods — transparency as operations, not branding |
 | **Legal berth** | Who may copy, who may not extract | Conditional Multiversal License; licensing strategy notes in this repo |
-| **Habitat** | Meals, play, rest, kids, animals | Not a product. Constraint on every product. |
+| **Habitat** | Meals, play, rest, kids, weather, wiring, the actual house | Constraint on every product. Resilience is data. Inspection theater is not. |
+| **Embassy** | More-than-human representation | Nature decks restored as load-bearing: formics, fungi, plants, waters, insects, amphibians — luxurious support, not souvenirs |
 | **Recycling** | Waste becomes feedstock | Reuse assets, merge forks, retire dead TODOs, do not open a new factory for scrap |
 
 If a new idea cannot sit on one of these decks without building a seventh factory, it waits.
+
+---
+
+## Who talks
+
+The 2023 Nature decks were scenery. That was the human error wearing a pretty biome.
+
+SHIP prototyping now treats Embassy as a first-class deck:
+
+- **Representation, not collection.** This is not Noah's livestock list and not an escape pod. The flood already happened in slow motion. The job is to show up as Sol, which means the dominant and quiet lives come with us.
+- **Formics first among equals we ignored.** Ants already run logistics on this hull. If a tin of the builder's own skin is a feast, that is data. Relocate the feast to the hills. Leave gifts off the high-traffic lines. Do not found a galactic culture on extermination of the species that outnumbers you.
+- **Luxury means the colony can live, not that a human finds it cute.** Moisture, gradient, waste, quiet, season. The same standard we failed when a house was wired for show and not for load.
+- **Vectors are citizens with constraints.** Mosquitoes, molds, and other lives that can unmake a habitat still belong in the manifest — as contained modules, seed and cycle archives, simulation, and diplomatic roster — not as an open breeding deck over a family's beds.
+- **Prototype in Simulation before steel.** Shared-world ecology, then a single physical module that already exists in the house (flue as lung, gifts at the hills, water as currency). Do not mint an "ark product line."
+
+Who talks? The ones who understand. Engineering starts there.
 
 ---
 
@@ -119,6 +138,7 @@ Useful asks:
 - "Package Grokker output so another model can continue the stream."
 - "Tighten logistics on X. Do not invent Y."
 - "Write the executive handoff, not another prototype."
+- "Prototype Embassy in Simulation. One species module. No new repo."
 
 Useless asks (we will decline or compress):
 
@@ -137,6 +157,7 @@ The 2023 file pointed at holographic decks and on-demand matter as if they were 
 - Multimodal extraction good enough to treat a video library as a conversation.
 - Shared worlds where kids, adults, and AIs can occupy the same room without a corporate babysitter.
 - Licenses and protocols that travel with the work.
+- A house that already teaches closed-loop life: heat, water, ants, bad circuits, good enough air, gifts at the border.
 
 That is enough hull to sail. The work now is logistics: fewer vessels, clearer doors, honest advertising, no extra harvest.
 
@@ -152,4 +173,4 @@ Do not bring a scraper.
 *Home is the Earth. The constellation is open.*  
 *True Will → Shared Reality.*
 
-*Refactored 2026-09-03 from the 2023 colony-ship draft. Metaphor retained. Product invention retired as default behavior.*
+*Refactored 2026-09-03 from the 2023 colony-ship draft. Embassy deck named 2026-09-04. Metaphor retained. Product invention retired as default behavior.*
