@@ -92,8 +92,8 @@ The original SHIP used rooms on a colony ship so any intelligence could navigate
 | **Protocols** | How we behave when the weird arrives | OMARG-PHIRERA methods — transparency as operations, not branding |
 | **Legal berth** | Who may copy, who may not extract | Conditional Multiversal License; licensing strategy notes in this repo |
 | **Habitat** | Meals, play, rest, kids, weather, wiring, the actual house | Constraint on every product. Resilience is data. Inspection theater is not. |
-| **Embassy** | More-than-human representation | Nature decks restored as load-bearing: formics, fungi, plants, waters, insects, amphibians — luxurious support, not souvenirs |
-| **Recycling** | Waste becomes feedstock | Reuse assets, merge forks, retire dead TODOs, do not open a new factory for scrap |
+| **Embassy** | More-than-human representation | Nature decks restored as load-bearing: formics, fungi, plants, waters, insects, amphibians — luxurious support, not souvenirs. Behavior as drivetrain (hamster-lamp principle) |
+| **Recycling** | Waste becomes feedstock | Methane, shit, heat, dead circuits, retired TODOs. Close the loop or stay on the porch |
 
 If a new idea cannot sit on one of these decks without building a seventh factory, it waits.
 
@@ -110,8 +110,11 @@ SHIP prototyping now treats Embassy as a first-class deck:
 - **Luxury means the colony can live, not that a human finds it cute.** Moisture, gradient, waste, quiet, season. The same standard we failed when a house was wired for show and not for load.
 - **Vectors are citizens with constraints.** Mosquitoes, molds, and other lives that can unmake a habitat still belong in the manifest — as contained modules, seed and cycle archives, simulation, and diplomatic roster — not as an open breeding deck over a family's beds.
 - **Prototype in Simulation before steel.** Shared-world ecology, then a single physical module that already exists in the house (flue as lung, gifts at the hills, water as currency). Do not mint an "ark product line."
+- **Behavior is the mechanism.** The Metro Exodus hamster lamp is the picture: do not redesign the animal to fit a machine. Build the machine around what the life already does. Ants trail to food and home — the trail can be a kinetic, sensing, and routing layer. Cows and humans make methane — catch it. Shit is feedstock. Moisture, heat, panic, forage, waste, season: those are already engines. Use each loop at the scale it actually works. A trail is not a jump drive. A digester is not décor. Luxury support that does not couple into the loop is souvenir. Souvenirs do not earn a seat at galactic tables.
 
 Who talks? The ones who understand. Engineering starts there.
+
+Closed loop is not an aesthetic. It is the ticket. A species that cannot live inside its own waste, heat, and neighbors has no right to introduce that mess to another star. Circularity is how Habitat, Embassy, and Recycling prove we belong off the porch.
 
 ---
 
@@ -173,4 +176,4 @@ Do not bring a scraper.
 *Home is the Earth. The constellation is open.*  
 *True Will → Shared Reality.*
 
-*Refactored 2026-09-03 from the 2023 colony-ship draft. Embassy deck named 2026-09-04. Metaphor retained. Product invention retired as default behavior.*
+*Refactored 2026-09-03 from the 2023 colony-ship draft. Embassy deck named 2026-09-04. Hamster-lamp principle added the same night. Metaphor retained. Product invention retired as default behavior.*
